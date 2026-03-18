@@ -5,3 +5,10 @@
 - Water can be dyed (e.g., purple) with food coloring to create themed effects, like a Halloween vibe
 
 ![](CONCEPT.PNG)
+
+![](BUILD.PNG)
+
+video at https://www.youtube.com/watch?v=ul6SC5NBSu8
+
+writeup at https://www.darsh.app/blog/AuraGenerator
+
